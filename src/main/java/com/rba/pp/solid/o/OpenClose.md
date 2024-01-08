@@ -8,9 +8,4 @@
 #### Tip
 - Whenever a class uses an ENUM or there is a conditional statement, 
 we should try to break into another class.
-
-
-
-
-
-
+- This is typically achieved through inheritance and polymorphism.
